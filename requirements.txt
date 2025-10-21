@@ -1,0 +1,4 @@
+
+# No third-party dependencies required for the modeling/evaluation scripts.
+# All code uses Python standard library (collections, argparse, math, etc.).
+# (Only the initial data download might require 'kaggle', but dataset files are already provided.)
