@@ -1,4 +1,4 @@
-# N‑Gram Language Modeling (PTB) — Quick Start
+# N‑Gram Language Modeling (PTB) - Quick Start
 
 ## Project Layout
 ```
