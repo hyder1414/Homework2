@@ -2,7 +2,7 @@
 
 **Course**: MSML 641 — Homework 2  
 **Author**: Haider Khan  
-**Repo / Code**: _<link to your repo or leave this line out>_
+**Repo / Code**: (https://github.com/hyder1414/Homework2)
 
 ---
 
